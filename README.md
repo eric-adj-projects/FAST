@@ -26,7 +26,7 @@ Improves organizational efficiency by 40% through standardized documentation
 📊 How It Works
 1. Input Accomplishment Details
 <div align="center">
-  <img src="assets/images/input-screen.png" alt="Input Screen" width="70%"/>
+ 
 </div>
 2. Generate STAR Components
 <div align="center">
