@@ -23,18 +23,15 @@ Improves document quality by 85% through consistent STAR methodology adherence
 Saves an estimated 3,000+ hours of collective writing time annually
 Improves organizational efficiency by 40% through standardized documentation
 
-📊 How It Works
+📊 How It Works 
 1. Input Accomplishment Details
 <div align="center">
- 
 </div>
 2. Generate STAR Components
 <div align="center">
-  <img src="assets/images/generation.png" alt="STAR Generation" width="70%"/>
 </div>
 3. Export and Share
 <div align="center">
-  <img src="assets/images/export.png" alt="Export Functionality" width="70%"/>
 </div>
 📚 Documentation
 
