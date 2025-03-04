@@ -1,6 +1,9 @@
+IMPORTANT NOTICE: This repository contains only mockups, documentation, and demonstration assets for the FAST application. The actual source code is not publicly available. This repository is intended for showcase and demonstration purposes only.
 # FAST - FMSG Accomplishment STAR Tool
 
-IMPORTANT NOTICE: This repository contains only mockups, documentation, and demonstration assets for the FAST application. The actual source code is not publicly available. This repository is intended for showcase and demonstration purposes only.
+<div align="center">
+  <img src="assets/FAST.png" width="80%"/>
+</div>
 
 <div align="center">
   <h3>Transform accomplishment details into professional STAR format narratives</h3>
