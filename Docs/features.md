@@ -26,7 +26,7 @@ FAST uses advanced asynchronous architecture to process all STAR components simu
 - **65% Faster**: Compared to traditional sequential processing
 - **Resource Optimization**: Efficient use of computational resources
 
-![Processing Diagram](../assets/diagrams/async-processing.png)
+![Processing Diagram](../assets/FAST_workflow.png)
 
 ### 3. Professional Formatting
 
