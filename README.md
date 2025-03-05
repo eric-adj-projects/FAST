@@ -44,9 +44,8 @@ FAST (FMSG Accomplishment STAR Tool) is a Streamlit-based application that autom
 </div>
 
 ## 📚 Documentation
-- Usage Guide
-- Feature Details
-- FAQ
+- [Feature Details](Docs/features.md)
+- [FAQ](Docs/faq.md)
 
 ## 🛠️ Technology Stack
 - **Frontend**: Streamlit
